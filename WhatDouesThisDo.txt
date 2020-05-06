@@ -1,0 +1,5 @@
+20
+10
+
+It assigns 'Hello World' as a key and assign different values to this key in two different Hash Maps. It prints the last value assigned
+to the key in each Hash Map.
